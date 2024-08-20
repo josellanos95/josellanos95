@@ -23,7 +23,7 @@ Recently, I was part of a team that developed an innovative web platform for a g
 Frontend, Backend, Full Stack, and development of responsive and accessible web applications.
 📲 Contact Information:
 
-LinkedIn: (https://www.linkedin.com/in/jose-llanos-6abaa0292/)
+LinkedIn: (https://www.linkedin.com/in/jose-maria-llanos/)
 Email: jose.llanos95@gmail.com
 
 I'm always open to new opportunities and exciting collaborations! Don't hesitate to contact me if you want to create something extraordinary together
