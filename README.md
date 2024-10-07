@@ -2,11 +2,11 @@ Hello there! 👋
 Welcome to my GitHub. I'm José Llanos, a passionate Full Stack Web Developer with a heart that beats for Front End. I love creating useful and attractive solutions with code, always seeking the perfect balance between functionality and aesthetics.
 💻 I'm currently working with:
 
-React / NextJS
-JavaScript / TypeScript
-HTML5 / CSS
-Tailwind / Bootstrap / Shadcn
-Node.js / Express
+React / NextJS /
+JavaScript / TypeScript /
+HTML5 / CSS /
+Tailwind / Bootstrap / Shadcn /
+Node.js / Express /
 PostgreSQL / TypeORM
 
 🚀 What I'm passionate about:
